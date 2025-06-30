@@ -1,0 +1,2 @@
+option.MESS_INTENSITY=Intensity Slider
+option.MESS_INTENSITY.comment=Change the mess intensity! (0 - terrible, 50 - very terrible, 100 - totally unplayable)
